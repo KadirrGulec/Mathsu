@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="./assets/icon.png" alt="MathSu Logo" width="120" height="120" style="border-radius: 24px;"/>
 
 # MathSu — Sudoku × Math
 
