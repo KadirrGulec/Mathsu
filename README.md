@@ -14,10 +14,7 @@
 
 <br/>
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blueviolet?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/license-Private-red?style=flat-square)](https://github.com)
-[![Built with Expo](https://img.shields.io/badge/built%20with-Expo-000020?style=flat-square&logo=expo)](https://expo.dev)
+
 
 </div>
 
@@ -30,8 +27,8 @@
 | Platform | Store | Status |
 |:---:|:---:|:---:|
 | 🤖 Android | [**Google Play Store**](https://play.google.com/store/apps/details?id=com.mathsu.sudoku) | `Coming Soon` |
-| 🍎 iOS | [**Apple App Store**](https://apps.apple.com/app/mathsu/id000000000) | `Coming Soon` |
-| 🌐 Web | [**mathsu.com**](https://mathsu.com) | `Coming Soon` |
+| 🍎 iOS | [**Apple App Store**](https://apps.apple.com/tr/app/mathsu/id6779231574?l=tr) | `Coming Soon` |
+| 🌐 Web | [**mathsu.com**](https://redlinesgames.com) | `Coming Soon` |
 
 </div>
 
@@ -143,11 +140,11 @@ Unlock beautiful animated themes to personalize your experience:
 
 | 🔗 Resource | 📎 Link |
 |:---:|:---:|
-| 🌍 Website | [mathsu.com](https://mathsu.com) |
-| 📧 Support | [support@mathsu.com](mailto:support@mathsu.com) |
-| 📸 Instagram | [@mathsugame](https://instagram.com/mathsugame) |
+| 🌍 Website | [mathsu.com](https://redlinesgames.com) |
+| 📧 Support | [mathsugame4244@gmail.com](mailto:mathsugame4244@gmail.com) |
+| 📸 Instagram | [@mathsugame](https://www.instagram.com/redlinesgames/) |
 | 🤖 Google Play | [Play Store](https://play.google.com/store/apps/details?id=com.mathsu.sudoku) |
-| 🍎 App Store | [App Store](https://apps.apple.com/app/mathsu/id000000000) |
+| 🍎 App Store | [App Store](https://apps.apple.com/tr/app/mathsu/id6779231574?l=tr) |
 
 </div>
 
