@@ -164,13 +164,13 @@ MathSu respects your privacy:
 
 This project is **proprietary and closed-source**. All rights reserved.
 
-© 2026 MathSu Game — Made with ❤️ and ☕
+© 2026 RedLines Games — Made with ❤️ and ☕
 
 ---
 
 <div align="center">
 
-**[⬆ Back to top](#)**
+
 
 <sub>Built with Expo · Powered by React Native · Crafted for curious minds</sub>
 
