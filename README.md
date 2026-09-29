@@ -9,8 +9,8 @@
 <br/>
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mathsu.sudoku)
-[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/mathsu/id000000000)
-[![Website](https://img.shields.io/badge/Website-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mathsu.com)
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/tr/app/mathsu/id6779231574?l=tr)
+[![Website](https://img.shields.io/badge/Website-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://redlinesgames.com)
 
 <br/>
 
@@ -28,7 +28,7 @@
 |:---:|:---:|:---:|
 | 🤖 Android | [**Google Play Store**](https://play.google.com/store/apps/details?id=com.mathsu.sudoku) | `Coming Soon` |
 | 🍎 iOS | [**Apple App Store**](https://apps.apple.com/tr/app/mathsu/id6779231574?l=tr) | `Coming Soon` |
-| 🌐 Web | [**mathsu.com**](https://redlinesgames.com) | `Coming Soon` |
+| 🌐 Web | [**redlinesgames.com**](https://redlinesgames.com) | `Coming Soon` |
 
 </div>
 
