@@ -159,10 +159,15 @@ MathSu respects your privacy:
 - ✅ Full GDPR-compliant design
 
 ---
+## 👥 Contributors
+
+- **Ömer Selim Deniz** – Co-Founder & Developer
+- **Kadir GÜLEÇ** – Co-Founder & Developer
 
 ## 📄 License
 
 This project is **proprietary and closed-source**. All rights reserved.
+
 
 © 2026 RedLines Games — Made with ❤️ and ☕
 
