@@ -54,10 +54,9 @@ It's more than just math — it's a **strategic thinking challenge** that adapts
 - **Tutorial system** — guided levels to ease new players in
 
 ### 🌍 Accessibility
-- **5 language support** — Turkish 🇹🇷, English 🇬🇧, German 🇩🇪, French 🇫🇷, Spanish 🇪🇸
+- **18 language support** — Turkish 🇹🇷, English 🇬🇧, German 🇩🇪, French 🇫🇷, Spanish 🇪🇸 and more
 - **Dark / Light mode** support
 - **Haptic feedback** for an immersive tactile experience
-- **Offline play** — no internet required
 
 ### 🎨 Visual Themes
 Unlock beautiful animated themes to personalize your experience:
@@ -97,8 +96,6 @@ Unlock beautiful animated themes to personalize your experience:
 | Navigation | React Navigation v7 |
 | State | React Hooks + AsyncStorage |
 | Animations | Animated API + Linear Gradient + BlurView |
-| Ads | Google Mobile Ads (AdMob) |
-| Purchases | expo-iap (In-App Purchases) |
 | Auth | Google Sign-In, Apple Authentication |
 | Audio | expo-audio |
 | Sensors | expo-sensors (Accelerometer) |
