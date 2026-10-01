@@ -2,7 +2,7 @@
 
 # MathSu — Sudoku × Math
 
-**Matematik becerilerinizi geliştirin. Eğlenin. Keşfedin.**
+
 
 *A unique puzzle game where Sudoku meets multiplication — train your brain while having fun!*
 
@@ -26,9 +26,9 @@
 
 | Platform | Store | Status |
 |:---:|:---:|:---:|
-| 🤖 Android | [**Google Play Store**](https://play.google.com/store/apps/details?id=com.mathsu.sudoku) | `Coming Soon` |
-| 🍎 iOS | [**Apple App Store**](https://apps.apple.com/tr/app/mathsu/id6779231574?l=tr) | `Coming Soon` |
-| 🌐 Web | [**redlinesgames.com**](https://redlinesgames.com) | `Coming Soon` |
+| 🤖 Android | [**Google Play Store**](https://play.google.com/store/apps/details?id=com.mathsu.sudoku) | `Now on the Store` |
+| 🍎 iOS | [**Apple App Store**](https://apps.apple.com/tr/app/mathsu/id6779231574?l=tr) | `Now on the Store` |
+| 🌐 Web | [**redlinesgames.com**](https://redlinesgames.com) | `Now on the Store` |
 
 </div>
 
@@ -39,7 +39,7 @@
 **MathSu** is a brain-training puzzle game that blends the logic of **Sudoku** with **multiplication math**. Each cell in the grid must be filled with a number such that:
 
 - Every row, column, and area contains **unique numbers**
-- Each 2×2 or 3×3 area's numbers **multiply to a target value**
+- Each 2×2 area's numbers **multiply to a target value**
 
 It's more than just math — it's a **strategic thinking challenge** that adapts to every skill level.
 
