@@ -142,7 +142,7 @@ Unlock beautiful animated themes to personalize your experience:
 |:---:|:---:|
 | 🌍 Website | [mathsu.com](https://redlinesgames.com) |
 | 📧 Support | [mathsugame4244@gmail.com](mailto:mathsugame4244@gmail.com) |
-| 📸 Instagram | [@mathsugame](https://www.instagram.com/redlinesgames/) |
+| 📸 Instagram | [@redlinesgames](https://www.instagram.com/redlinesgames/) |
 | 🤖 Google Play | [Play Store](https://play.google.com/store/apps/details?id=com.mathsu.sudoku) |
 | 🍎 App Store | [App Store](https://apps.apple.com/tr/app/mathsu/id6779231574?l=tr) |
 
